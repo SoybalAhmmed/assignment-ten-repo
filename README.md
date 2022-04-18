@@ -2,10 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Details
 
-In the project directory, you can run:
-
+1. Using firebase react hooks
+2. Using React Toast
+3. using react router
+4. course Information
 ### `npm start`
 
 Runs the app in the development mode.\
