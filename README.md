@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Person Tutor App](https://tutor-assignment-ten.netlify.app/).
 
 ## Project Details
 
@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Using React Toast
 3. using react router
 4. course Information
+5. Reset Password
 ### `npm start`
 
 Runs the app in the development mode.\
